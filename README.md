@@ -1,0 +1,2 @@
+# NotificationMultipleScenes
+处理通知不同场景的例子：更换channelID显示不同的大图标和点击通知栏“关闭”事件等
